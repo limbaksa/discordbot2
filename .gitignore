@@ -7,7 +7,6 @@
 
 #db&token
 lib/bot/token.0
-db/discordlog.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
